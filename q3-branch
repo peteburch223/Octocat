@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+ A branch consists of a repo with one or more changes. If it is the master branch, it is a linear series of changes. If the repo contains files that are modified in parallel, then the branch is a conceptually separate development thread, which may diverge from the master, and then be merged back
